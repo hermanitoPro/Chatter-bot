@@ -9,7 +9,7 @@ Este guia é feito para orientar uma integração básica entre o aplicativo Sla
 💡 Em nosso exemplo, vamos usar o modo soquete, nossa opção recomendada para aqueles que estão apenas começando e construindo algo para sua equipe. São necessário passos diferentes , se você for usar HTTP como protocolo de comunicação do seu aplicativo.
 
 
-# Crie um aplicativo
+## Crie um aplicativo
 
 ![N|Solid](https://th.bing.com/th/id/R.0e3c0c0304660d038b58c8b9267d535e?rik=KmjWoMxrMiauGw&pid=ImgRaw&r=0)
 
