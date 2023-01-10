@@ -361,8 +361,8 @@ Agora  você pode Brincan um pouco e criar o seu bot para o seu canal de trabalh
 - Thiago Pereira de Souza - Engenharia - DevOps
 
 
-![image (5)](https://user-images.githubusercontent.com/104229602/203255946-53177989-38dc-4375-aea5-146a2f9f3d7d.png)
 
+![Rulk](https://user-images.githubusercontent.com/104229602/211641549-1784882a-7609-4110-ad84-c11b0f544aee.png)
 
 
 ------------
